@@ -1,0 +1,285 @@
+{
+  "categories": [
+    {
+      "id": "2ccff522-da2e-4096-830d-44cf0f0de68e",
+      "name": "Tools",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "3b6bb4ed-7f5d-4b71-9110-a7d8a78723de",
+      "name": "Games",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "f3c6f111-b270-4e80-badd-a1c3b393bc5f",
+      "name": "Toys",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "8189f733-ee77-47de-b5af-8a3ee131dd8d",
+      "name": "Books",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "a702f3d5-3fdf-43ca-bc8e-a2193facd719",
+      "name": "Garden",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "6321b43f-5c52-4fe1-8f30-653472dd5448",
+      "name": "Movies",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "9852d7b9-a316-4201-b856-ea5913630ccd",
+      "name": "Games",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "d719af13-08f7-4acf-8eae-52b067981322",
+      "name": "Sports",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    },
+    {
+      "id": "5ebbe0fb-6686-485f-a6b6-0e2dcbbd690e",
+      "name": "Computers",
+      "createdAt": 1727669237894,
+      "updatedAt": 1727669237894
+    }
+  ],
+  "products": [
+    {
+      "categoryID": "2ccff522-da2e-4096-830d-44cf0f0de68e",
+      "id": "1920f98f-0e5f-4a5f-b3b6-731c428c486a",
+      "name": "Rustic Granite Soap",
+      "price": 290.4,
+      "description": "Sint nisi depopulo dolore utor tumultus caput solitudo tamisium. Aperiam ea bestia comparo quos natus. Vestrum placeat aestivus non.",
+      "image": "https://picsum.photos/seed/EQwbfx1ouU/217/1139?grayscale&blur=3",
+      "quantity": 15,
+      "sold": 21,
+      "createdAt": 1727669237896,
+      "updatedAt": 1727669237896
+    },
+    {
+      "categoryID": "2ccff522-da2e-4096-830d-44cf0f0de68e",
+      "id": "f2c2c8c4-7791-4731-a9c9-c7f5cfec793f",
+      "name": "Modern Rubber Soap",
+      "price": 732.35,
+      "description": "Laudantium audio officia suscipit. Deludo placeat umquam adflicto audax. Deludo voluntarius ullus consequatur tribuo turba excepturi minima.",
+      "image": "https://picsum.photos/seed/w2pkUTrH/276/2878?blur=2",
+      "quantity": 80,
+      "sold": 89,
+      "createdAt": 1727669237896,
+      "updatedAt": 1727669237896
+    },
+    {
+      "categoryID": "3b6bb4ed-7f5d-4b71-9110-a7d8a78723de",
+      "id": "7c536d75-3d40-4be8-ad4f-21a237731067",
+      "name": "Elegant Cotton Shoes",
+      "price": 949.25,
+      "description": "Video accusator audax abeo sordeo spero suppono cunabula thymbra. Deleo vilitas truculenter enim. Adulatio alias torqueo triduana deinde cogo voluptatum pax.",
+      "image": "https://picsum.photos/seed/ZctQe/471/727?grayscale&blur=4",
+      "quantity": 50,
+      "sold": 75,
+      "createdAt": 1727669237896,
+      "updatedAt": 1727669237896
+    },
+    {
+      "categoryID": "3b6bb4ed-7f5d-4b71-9110-a7d8a78723de",
+      "id": "ece9cc8e-a41a-4c8f-8e93-723ce9088e99",
+      "name": "Handmade Plastic Computer",
+      "price": 524.79,
+      "description": "Numquam advoco rerum sophismata suppellex. Bibo laboriosam colo corrupti reiciendis. Cupio via conculco.",
+      "image": "https://picsum.photos/seed/4w3dl/2483/2868?grayscale&blur=6",
+      "quantity": 50,
+      "sold": 24,
+      "createdAt": 1727669237896,
+      "updatedAt": 1727669237896
+    },
+    {
+      "categoryID": "f3c6f111-b270-4e80-badd-a1c3b393bc5f",
+      "id": "ca360432-0c8b-4281-99c8-bde4f8793e85",
+      "name": "Awesome Granite Mouse",
+      "price": 972.49,
+      "description": "Spes deporto veniam tristis arma. Perferendis cunae talus deleniti. Votum adhuc super cito tepesco tui voveo debeo denuo vomica.",
+      "image": "https://picsum.photos/seed/vguqHu81v/1233/3077?grayscale&blur=3",
+      "quantity": 60,
+      "sold": 78,
+      "createdAt": 1727669237896,
+      "updatedAt": 1727669237896
+    },
+    {
+      "categoryID": "f3c6f111-b270-4e80-badd-a1c3b393bc5f",
+      "id": "a4e3f86d-aaa3-45c7-b456-892c101be43a",
+      "name": "Licensed Concrete Tuna",
+      "price": 830.29,
+      "description": "Pectus utique una uterque quod. Colo utilis victus. Venia aperte vinum acsi adicio.",
+      "image": "https://picsum.photos/seed/xlKeOzH/3299/2952?grayscale&blur=1",
+      "quantity": 47,
+      "sold": 66,
+      "createdAt": 1727669237896,
+      "updatedAt": 1727669237896
+    },
+    {
+      "categoryID": "8189f733-ee77-47de-b5af-8a3ee131dd8d",
+      "id": "9aa7921f-baf3-403d-953a-3489474e7e62",
+      "name": "Handcrafted Plastic Soap",
+      "price": 680.49,
+      "description": "Omnis nesciunt capto animadverto voluptatem acquiro. Deleo caste assentator candidus vivo. Avarus aggredior catena absorbeo sponte doloribus.",
+      "image": "https://picsum.photos/seed/CYMPeGAE/3961/1074?grayscale&blur=8",
+      "quantity": 7,
+      "sold": 83,
+      "createdAt": 1727669237897,
+      "updatedAt": 1727669237897
+    },
+    {
+      "categoryID": "8189f733-ee77-47de-b5af-8a3ee131dd8d",
+      "id": "f19fab49-05e9-4c24-930d-4b27ed8c5e75",
+      "name": "Modern Cotton Hat",
+      "price": 824.89,
+      "description": "Tantum ustilo vestrum. Depraedor amissio solvo delectatio. Vivo abduco taceo tero peccatus totam delicate in cupressus aspicio.",
+      "image": "https://picsum.photos/seed/cpt4MT/68/456?grayscale&blur=10",
+      "quantity": 13,
+      "sold": 29,
+      "createdAt": 1727669237897,
+      "updatedAt": 1727669237897
+    },
+    {
+      "categoryID": "a702f3d5-3fdf-43ca-bc8e-a2193facd719",
+      "id": "7092214d-8921-4565-b498-e8a9af8b03c5",
+      "name": "Recycled Granite Bike",
+      "price": 991.7,
+      "description": "Admitto adipisci cibo vulgaris terra blandior. Apto complectus suasoria volo acervus ter ut ter. Sint molestiae audacia.",
+      "image": "https://picsum.photos/seed/AEwpLIc0x/2185/41?grayscale&blur=7",
+      "quantity": 96,
+      "sold": 23,
+      "createdAt": 1727669237897,
+      "updatedAt": 1727669237897
+    },
+    {
+      "categoryID": "a702f3d5-3fdf-43ca-bc8e-a2193facd719",
+      "id": "a2106d1c-34b2-4c5b-b25f-47103e9c4415",
+      "name": "Licensed Granite Gloves",
+      "price": 73.5,
+      "description": "Decens deserunt dolorum velociter aurum. Bellum vitiosus defero defaeco creta. Ait cubo velociter terra.",
+      "image": "https://picsum.photos/seed/iYuPltN3y/3434/3927?blur=9",
+      "quantity": 32,
+      "sold": 31,
+      "createdAt": 1727669237897,
+      "updatedAt": 1727669237897
+    },
+    {
+      "categoryID": "6321b43f-5c52-4fe1-8f30-653472dd5448",
+      "id": "f384f4d8-3289-4f1e-8d81-b03d40e0fe0d",
+      "name": "Handcrafted Rubber Car",
+      "price": 726.5,
+      "description": "Vitium confugo molestiae debitis vaco thema xiphias terra vobis. Velociter coniuratio bos accusantium chirographum ademptio defessus delectatio vilicus. Possimus cicuta titulus amoveo.",
+      "image": "https://picsum.photos/seed/yUFVr4i/805/720?grayscale&blur=6",
+      "quantity": 76,
+      "sold": 23,
+      "createdAt": 1727669237897,
+      "updatedAt": 1727669237897
+    },
+    {
+      "categoryID": "6321b43f-5c52-4fe1-8f30-653472dd5448",
+      "id": "83f502f4-bc59-4f48-aebb-e6da11e3e3b4",
+      "name": "Tasty Fresh Chips",
+      "price": 819.43,
+      "description": "Aeger sublime recusandae dolorum maxime. Fuga esse caecus sollicito unde cado cultura substantia tum. Tabgo eaque amita.",
+      "image": "https://picsum.photos/seed/ijKzvK/873/1484?grayscale",
+      "quantity": 33,
+      "sold": 85,
+      "createdAt": 1727669237898,
+      "updatedAt": 1727669237898
+    },
+    {
+      "categoryID": "9852d7b9-a316-4201-b856-ea5913630ccd",
+      "id": "59085c9e-476f-46cd-8a23-ff568d4ea57d",
+      "name": "Ergonomic Frozen Tuna",
+      "price": 797.75,
+      "description": "Voro amita solus vespillo nulla aiunt valetudo umerus. Spectaculum vehemens theologus. Tenus summopere conforto tenax degero.",
+      "image": "https://picsum.photos/seed/iZdTxkB9o/2024/1344?grayscale&blur=7",
+      "quantity": 94,
+      "sold": 21,
+      "createdAt": 1727669237898,
+      "updatedAt": 1727669237898
+    },
+    {
+      "categoryID": "9852d7b9-a316-4201-b856-ea5913630ccd",
+      "id": "e3a74e03-05bf-4270-a7bf-0b8dbced0e03",
+      "name": "Modern Concrete Bacon",
+      "price": 837.69,
+      "description": "Cursus coma accedo denego vitiosus civis creator curvo peior apparatus. Repudiandae officiis vociferor ipsum beatae caritas cras acsi. Totidem clamo thymum celer.",
+      "image": "https://picsum.photos/seed/VT5C9/216/3198?blur=6",
+      "quantity": 25,
+      "sold": 55,
+      "createdAt": 1727669237898,
+      "updatedAt": 1727669237898
+    },
+    {
+      "categoryID": "d719af13-08f7-4acf-8eae-52b067981322",
+      "id": "24458650-8832-4189-85b7-92cb2d303a60",
+      "name": "Luxurious Soft Pizza",
+      "price": 169.06,
+      "description": "Causa aeneus comminor ex cariosus ascit tolero tubineus. Colligo aqua ait corroboro officia copia sursum. Calcar terminatio super admiratio arbor vestrum curo comprehendo avaritia aut.",
+      "image": "https://picsum.photos/seed/3MTrR/1805/2873?grayscale&blur=10",
+      "quantity": 47,
+      "sold": 40,
+      "createdAt": 1727669237898,
+      "updatedAt": 1727669237898
+    },
+    {
+      "categoryID": "d719af13-08f7-4acf-8eae-52b067981322",
+      "id": "d2514641-4cbf-4d50-bffa-1e46fc296838",
+      "name": "Handcrafted Steel Pizza",
+      "price": 146.85,
+      "description": "Cognatus decimus torqueo conduco suppono distinctio cura decretum appositus damnatio. Tristis cursim caelestis civis damno depono arguo blanditiis defaeco adversus. Stultus beatae viduo.",
+      "image": "https://picsum.photos/seed/NxCEHAu/633/2093?blur=6",
+      "quantity": 28,
+      "sold": 99,
+      "createdAt": 1727669237898,
+      "updatedAt": 1727669237898
+    },
+    {
+      "categoryID": "5ebbe0fb-6686-485f-a6b6-0e2dcbbd690e",
+      "id": "462f6be8-4c5b-4965-879c-3af8a3a8e430",
+      "name": "Licensed Metal Towels",
+      "price": 920.39,
+      "description": "Ut somnus adopto saepe cito coerceo claustrum depereo volutabrum despecto. Totus facilis pax suppellex umerus. Quis cogito recusandae aut.",
+      "image": "https://picsum.photos/seed/1FMBLA/713/2809?blur=10",
+      "quantity": 15,
+      "sold": 85,
+      "createdAt": 1727669237898,
+      "updatedAt": 1727669237898
+    },
+    {
+      "categoryID": "5ebbe0fb-6686-485f-a6b6-0e2dcbbd690e",
+      "id": "066d7507-2dd1-4ed0-9c57-6421135b3147",
+      "name": "Recycled Fresh Tuna",
+      "price": 544.56,
+      "description": "Sponte creptio truculenter absque titulus sed abundans thesis ciminatio. Dedico cribro acceptus aurum sufficio tertius contabesco tutamen. Congregatio amet sustineo.",
+      "image": "https://picsum.photos/seed/LcN4cZC/623/1480?grayscale&blur=1",
+      "quantity": 29,
+      "sold": 61,
+      "createdAt": 1727669237898,
+      "updatedAt": 1727669237898
+    }
+  ],
+  "users": [
+    {
+      "username": "duchuyr",
+      "email": "huy123@gmail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "carts": []
+}
